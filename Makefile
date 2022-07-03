@@ -1,5 +1,5 @@
 PKG := compact_interval_set
-PKG_VERS := 0.9
+PKG_VERS := 0.9.1
 PKG_DEPS := \
 	setup.cfg \
 	$(PKG)/*.py
